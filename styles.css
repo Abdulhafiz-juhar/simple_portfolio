@@ -1,1 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+}
 
+/*header-navigation*/
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: aliceblue;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+.links {
+    display: flex;
+    gap: 1em;
+    align-items: center;
+}
+/*header-navigation*/
+
+/*first-content*/
+.top-content {
+    background-color: aliceblue;
+}
+
+
+/*first-content*/
