@@ -178,14 +178,21 @@ img {
 }
 
 .left-forth-content-title {
-    font-size: larger;
-    font-weight: bold;
+    font-size: 28px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+
+.left-forth-content-detail {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .forth-content-button {
     background: none;
     border-radius: 0.4rem;
     border-color: white;
+    color: white;
     border-width: 2px;
     min-width: 8em;
     min-height: 2em;
