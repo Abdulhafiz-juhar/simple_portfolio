@@ -38,6 +38,7 @@ a {
 .top-content {
     background-color: #1f2937;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     padding: 5%;
     gap: 1em;
