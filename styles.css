@@ -173,3 +173,12 @@ img {
 }
 
 /*forth-content*/
+
+/*footer*/
+.footer {
+    background-color: lightblue;
+    padding: 2%;
+    text-align: center;
+}
+
+/*footer*/
