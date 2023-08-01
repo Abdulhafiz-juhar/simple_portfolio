@@ -9,6 +9,11 @@ body {
     height: 50px;
 }
 
+.logo-image {
+    max-width: 50px;
+    max-height: 50px;
+}
+
 .header {
     display: flex;
     justify-content: space-around;
@@ -108,3 +113,10 @@ img {
 }
 
 /*second-content*/
+
+/*third-content*/
+.third-content {
+    background-color: lightgray;
+}
+
+/*third-content*/
