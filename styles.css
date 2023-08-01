@@ -136,3 +136,40 @@ img {
 }
 
 /*third-content*/
+
+/*forth-content*/
+
+.forth-content-details {
+    background-color: lightsalmon;
+    margin: 4%;
+    padding: 3%;
+    border-radius: 2%;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.left-forth-content {
+    max-width: 40%;
+}
+
+.right-forth-content {
+    justify-content: center;
+}
+
+.left-forth-content-title {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.forth-content-button {
+    background: none;
+    border-radius: 12%;
+    border-color: white;
+    border-width: 2px;
+    min-width: 8em;
+    min-height: 2em;
+}
+
+/*forth-content*/
